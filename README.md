@@ -9,4 +9,4 @@ While sales reports are widely popular in business, there are a few public datas
 * Calculated profits using the cost of goods sold.
 * Improved user experience by applying conditional formatting, drillthrough filters and, visual interactions.
 
-![KPI-dashboard](City Mart Sales Analytics.png)
+![KPI-dashboard](CityMartSalesAnalytics.png)
